@@ -1,3 +1,6 @@
 [submodule "angular2-quick-start"]
 	path = angular2-quick-start
 	url = git@github.com:zentetsukenz/angular2-quick-start.git
+[submodule "angular2-tour-of-heroes"]
+	path = angular2-tour-of-heroes
+	url = git@github.com:zentetsukenz/angular2-tour-of-heroes.git
